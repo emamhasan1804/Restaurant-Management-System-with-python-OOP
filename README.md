@@ -3,7 +3,7 @@
 
 This is a Python-based Restaurant Management System that allows different types of users (Admin, Employee, Customer) to interact with a restaurant's menu, manage employees, and perform transactions like adding items to a cart and checking out. The system provides functionalities for menu management, order handling, employee management, and customer interaction.
 
-Features
+###Features
 1. Admin Functionalities
 Add New Item: Admin can add new food items to the restaurant's menu.
 Add New Employee: Admin can add new employees to the restaurant.
